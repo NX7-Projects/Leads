@@ -9,6 +9,32 @@
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
+/* Skip-Link: nur bei Tastatur-Fokus sichtbar */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  font-family: system-ui, sans-serif;
+  font-size: .9rem;
+  padding: .7rem 1.4rem;
+  background: var(--ink);
+  color: #fff;
+  text-decoration: none;
+  z-index: 10;
+}
+.skip-link:focus {
+  left: .5rem;
+  top: .5rem;
+}
+
+/* Sichtbarer Tastatur-Fokus */
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+}
+/* Sprungziel selbst bekommt keinen Rahmen (nur programmatischer Fokus) */
+main[tabindex="-1"]:focus { outline: none; }
+
 body {
   font-family: Georgia, "Times New Roman", serif;
   color: var(--ink);
