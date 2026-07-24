@@ -1,0 +1,149 @@
+/* Demo: Museum in der „Runden Ecke“ Leipzig
+   Bewusst minimal: schwarz auf weiß, reiner Text. Design ist zweitrangig,
+   Struktur und Barrierefreiheit stehen im Vordergrund. */
+
+:root {
+  --ink: #000;
+  --muted: #444;
+  --line: #ccc;
+  --max: 44rem;
+}
+
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  color: var(--ink);
+  background: #fff;
+  line-height: 1.6;
+  font-size: 1.0625rem;
+}
+
+.site-header,
+main,
+.site-footer {
+  max-width: var(--max);
+  margin: 0 auto;
+  padding: 0 1.25rem;
+}
+
+/* Skip-Link: nur bei Tastatur-Fokus sichtbar */
+.skip-link {
+  position: absolute;
+  left: -9999px;
+  top: 0;
+  font-family: system-ui, sans-serif;
+  font-size: .9rem;
+  padding: .6rem 1.2rem;
+  background: var(--ink);
+  color: #fff;
+  text-decoration: none;
+  z-index: 10;
+}
+.skip-link:focus {
+  left: .5rem;
+  top: .5rem;
+}
+
+/* Sichtbarer Tastatur-Fokus */
+:focus-visible {
+  outline: 2px solid var(--ink);
+  outline-offset: 3px;
+}
+/* Sprungziel selbst bekommt keinen Rahmen (nur programmatischer Fokus) */
+main[tabindex="-1"]:focus { outline: none; }
+
+/* Header */
+.site-header {
+  padding-top: 1.5rem;
+  padding-bottom: 1.25rem;
+  border-bottom: 2px solid var(--ink);
+}
+.brand {
+  font-family: system-ui, sans-serif;
+  font-size: .78rem;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+  color: var(--muted);
+}
+.site-title {
+  font-size: 1.15rem;
+  font-weight: bold;
+  margin-top: .15rem;
+}
+.site-header nav {
+  margin-top: .9rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: .3rem 1rem;
+}
+.site-header nav a {
+  color: var(--ink);
+  font-family: system-ui, sans-serif;
+  font-size: .82rem;
+  text-decoration: none;
+}
+.site-header nav a:hover,
+.site-header nav a:focus { text-decoration: underline; }
+
+/* Inhalt */
+main { padding-top: 2.25rem; padding-bottom: 1rem; }
+
+h1 {
+  font-size: 2rem;
+  line-height: 1.15;
+  font-weight: bold;
+  margin-bottom: .75rem;
+}
+.lead {
+  font-size: 1.15rem;
+  color: var(--muted);
+  margin-bottom: 2rem;
+}
+
+section {
+  padding: 1.75rem 0;
+  border-top: 1px solid var(--line);
+}
+h2 {
+  font-size: 1.4rem;
+  font-weight: bold;
+  margin-bottom: .85rem;
+}
+h3 {
+  font-size: 1.05rem;
+  font-weight: bold;
+  margin: 1rem 0 .35rem;
+}
+p { margin-bottom: .75rem; }
+p:last-child { margin-bottom: 0; }
+
+a { color: var(--ink); }
+
+/* Listen */
+.quellen { list-style: none; }
+.quellen li {
+  padding-left: 1.3rem;
+  position: relative;
+  margin-bottom: .5rem;
+  font-size: .95rem;
+  word-break: break-word;
+}
+.quellen li::before { content: "—"; position: absolute; left: 0; }
+.quellen-hinweis {
+  font-family: system-ui, sans-serif;
+  font-size: .82rem;
+  color: var(--muted);
+  margin-top: .75rem;
+}
+
+/* Footer */
+.site-footer {
+  margin-top: 1rem;
+  padding-top: 1.5rem;
+  padding-bottom: 3rem;
+  border-top: 2px solid var(--ink);
+  font-family: system-ui, sans-serif;
+  font-size: .82rem;
+  color: var(--muted);
+}
