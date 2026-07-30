@@ -1,42 +1,48 @@
 # Quellen — Museum in der Runden Ecke
 
 Jede Tatsachenaussage auf der Seite ist hier belegt. Was nicht belegt werden konnte,
-steht nicht auf der Seite. Erzeugt mit nx7-site-static 0.1.0, Theme `historisch`.
+steht nicht auf der Seite. Erzeugt mit nx7-site-static 0.1.0, Theme `hell`.
 
-## Öffnungszeiten der historischen Ausstellung „Stasi – Macht und Banalität“: täglich 10 bis 18 Uhr
+## Öffnungszeiten: regulär Montag bis Sonntag 10–18 Uhr, derzeit vorübergehend nur 11–16 Uhr; Museum im Stasi-Bunker jedes letzte Wochenende im Monat 13–16 Uhr
 
-- Quelle: Gedenkstätte Museum in der „Runden Ecke“, Seite „Öffnungszeiten“
-- URL: https://www.runde-ecke-leipzig.de/index.php?id=oeffnungszeiten
+- Quelle: Bürgerkomitee Leipzig e. V., Seite „Öffnungszeiten“
+- URL: https://www.runde-ecke-leipzig.de/index.php?id=230
 - abgerufen: 2026-07-30
 
-## Eintritt: 5,00 Euro / 4,00 Euro ermäßigt, inklusive Audioguide in acht Sprachen
+## Eintritt: Erwachsene 5,00 €, ermäßigt 4,00 € inklusive Audioguide; öffentliche Führungen 7,50 € / 6,00 €
 
-- Quelle: Gedenkstätte Museum in der „Runden Ecke“, Seite „Öffnungszeiten“
-- URL: https://www.runde-ecke-leipzig.de/index.php?id=oeffnungszeiten
+- Quelle: Bürgerkomitee Leipzig e. V., Seiten „Öffnungszeiten“ und „Startseite“
+- URL: https://www.runde-ecke-leipzig.de/index.php?id=230
 - abgerufen: 2026-07-30
 
-## Samstags um 16 Uhr Rundgang „Stasi intern“ durch das Haus
+## Träger, Rechtsform, Anschrift, Telefon, Vorstand, Vereinsregister und inhaltliche Verantwortung
 
-- Quelle: Gedenkstätte Museum in der „Runden Ecke“, Seite „Öffnungszeiten“
-- URL: https://www.runde-ecke-leipzig.de/index.php?id=oeffnungszeiten
-- abgerufen: 2026-07-30
-
-## Träger Bürgerkomitee Leipzig e.V., Anschrift Dittrichring 24, 04109 Leipzig, Telefon, E-Mail, Vorstand und Vereinsregister (Amtsgericht Leipzig, VR 1026)
-
-- Quelle: Gedenkstätte Museum in der „Runden Ecke“, Seite „Impressum & Datenschutz“
+- Quelle: Impressum des Bürgerkomitees Leipzig e. V.
 - URL: https://www.runde-ecke-leipzig.de/index.php?id=63
 - abgerufen: 2026-07-30
 
-## Von 1950 bis 1989 Sitz der Bezirksverwaltung für Staatssicherheit Leipzig; Besetzung am 4. Dezember 1989 im Rahmen der Montagsdemonstrationen
+## Gebäude 1911–1913 als Geschäftshaus der Alten Leipziger Feuerversicherung errichtet, Architekten Hugo Licht und Karl Poser
 
 - Quelle: Wikipedia, Artikel „Museum in der Runden Ecke“
 - URL: https://de.wikipedia.org/wiki/Museum_in_der_Runden_Ecke
 - abgerufen: 2026-07-30
 
-## Museum seit August 1990, Träger Bürgerkomitee Leipzig e.V.; Dauerausstellung „Stasi – Macht und Banalität“
+## Von 1950 bis 1989 Sitz der Bezirksverwaltung für Staatssicherheit Leipzig
 
 - Quelle: Wikipedia, Artikel „Museum in der Runden Ecke“
 - URL: https://de.wikipedia.org/wiki/Museum_in_der_Runden_Ecke
+- abgerufen: 2026-07-30
+
+## Besetzung der Einrichtung am Abend des 4. Dezember 1989 im Rahmen der Montagsdemonstrationen
+
+- Quelle: Wikipedia, Artikel „Museum in der Runden Ecke“
+- URL: https://de.wikipedia.org/wiki/Museum_in_der_Runden_Ecke
+- abgerufen: 2026-07-30
+
+## Dauerausstellung „Stasi – Macht und Banalität“, seit August 1990 in den Originalräumen der früheren Bezirksverwaltung, zu Geschichte, Struktur und Arbeitsweise des MfS
+
+- Quelle: Bürgerkomitee Leipzig e. V., Seite „Die Ausstellung“, und Wikipedia
+- URL: https://www.runde-ecke-leipzig.de/das-museum/die-ausstellung/
 - abgerufen: 2026-07-30
 
 ## Alle Bilder: Urheber, Lizenz und Fundstelle
@@ -55,6 +61,8 @@ steht nicht auf der Seite. Erzeugt mit nx7-site-static 0.1.0, Theme `historisch`
 
 Folgende Angaben ließen sich nicht belegen und stehen deshalb **nicht** auf der Seite:
 
-- Barrierefreiheit des Gebäudes selbst (stufenloser Zugang, Aufzug) — dazu fand sich auf den abgerufenen Seiten keine belastbare Angabe. Die Erklärung zur Barrierefreiheit bezieht sich ausschließlich auf diese Website.
-- Feiertagsregelungen und Schließtage sowie Besucherzahlen — auf den abgerufenen Seiten nicht eindeutig ausgewiesen und deshalb weggelassen.
-- Preise und feste Zeiten der weiteren Angebote (Stadtrundgang, Stasi-Bunker) — nur die Ausstellung und der Samstagsrundgang „Stasi intern“ sind hier belegt übernommen.
+- Herkunft des Namens „Runde Ecke“ (nach der abgerundeten Gebäudeecke) — auf den abgerufenen Quellen nicht ausdrücklich erläutert, daher nicht als Tatsache genannt.
+- Gründungsdatum des Bürgerkomitees Leipzig e. V. — in den abgerufenen Quellen nicht eindeutig belegt.
+- Umsatzsteuer-Identifikationsnummer — im Impressum nicht angegeben, daher ausgelassen.
+- Anzahl der Audioguide-Sprachen — die Angaben schwanken (acht bzw. zehn Sprachen), daher ohne Zahl genannt.
+- Barrierefreiheit des Gebäudes selbst (Zugänge, Aufzug) — dazu fand sich keine belastbare Angabe; die Erklärung zur Barrierefreiheit bezieht sich ausschließlich auf diese Website.

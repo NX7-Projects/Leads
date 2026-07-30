@@ -1,5 +1,5 @@
-/* nx7-site-static 0.1.0 — Theme: historisch
-   Erzeugt aus tokens/tokens.css + tokens/themes/historisch.css. Nicht von Hand ändern. */
+/* nx7-site-static 0.1.0 — Theme: hell
+   Erzeugt aus tokens/tokens.css + tokens/themes/hell.css. Nicht von Hand ändern. */
 
 /*
  * nx7-site-static — Struktur
@@ -521,45 +521,39 @@ img {
 }
 
 
-/* ── Theme: historisch ── */
+/* ── Theme: hell ── */
 /*
- * Stimmung „historisch" — Sandstein, Bronze, warmes Papier.
- * Für Denkmäler, Burgen, Gedenkstätten, Heimatstuben.
- *
- * Alle Paare gegen die Kontrastprüfung des Prüfers gerechnet (min. 4,5:1 für
- * Fließtext, 3:1 für große Schrift und Ränder). Werte nicht einzeln ändern,
- * ohne `node pruefer/kontrast.mjs` erneut laufen zu lassen.
+ * Stimmung „hell" — klar, sachlich, viel Weißraum.
+ * Für Museen mit moderner Sammlung, Besucherzentren, Vereine.
  */
 
 :root {
   /* === Schrift ===
-     Serifen fuer Ueberschriften: eine Renaissance-Antiqua traegt Alter und
-     Wuerde, ohne historisierend zu wirken. Fliesstext bleibt serifenlos,
-     weil er auf Telefonen sonst schlechter liest. */
-  --schrift-ueberschrift: Georgia, 'Iowan Old Style', 'Palatino Linotype', 'Times New Roman', serif;
+     Durchgehend serifenlos — sachlich, wie die Haltung des Themes. */
+  --schrift-ueberschrift: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
   --schrift-text: system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
 
-  --farbe-grund: #faf7f2;
-  --farbe-grund-gedeckt: #f0ebe1;
+  --farbe-grund: #ffffff;
+  --farbe-grund-gedeckt: #f4f5f7;
 
-  --farbe-text: #2b2620;
-  --farbe-text-leise: #5c5348;
+  --farbe-text: #16181d;
+  --farbe-text-leise: #565c66;
 
-  --farbe-akzent: #6f5326;
-  --farbe-akzent-aktiv: #533d1b;
+  --farbe-akzent: #1d4ed8;
+  --farbe-akzent-aktiv: #17389f;
   --farbe-auf-akzent: #ffffff;
 
-  --farbe-verweis: #6b4f24;
-  --farbe-verweis-aktiv: #4a3617;
+  --farbe-verweis: #1746b8;
+  --farbe-verweis-aktiv: #12358c;
 
-  --farbe-linie: #cabca1;
-  --farbe-fokus: #6f5326;
+  --farbe-linie: #ccd2da;
+  --farbe-fokus: #1d4ed8;
 
-  --farbe-fuss-grund: #2b2620;
-  --farbe-fuss-text: #e8e1d5;
-  --farbe-fuss-verweis: #dcc79a;
-  --farbe-fuss-leise: #b9ae9c;
-  --farbe-fuss-linie: #4a4238;
+  --farbe-fuss-grund: #16181d;
+  --farbe-fuss-text: #e5e7eb;
+  --farbe-fuss-verweis: #a9c4f5;
+  --farbe-fuss-leise: #aab0b9;
+  --farbe-fuss-linie: #343841;
 
   --farbe-warnung: #9a4a06;
   --farbe-warnung-grund: #fdf3e6;

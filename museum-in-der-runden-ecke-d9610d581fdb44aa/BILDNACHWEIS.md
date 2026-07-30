@@ -3,42 +3,47 @@
 Alle Bilder stammen aus frei lizenzierten Beständen. Bei Weiterverwendung
 müssen Urheber und Lizenz genannt bleiben.
 
-- Dittrichring Leipzig 2024 Runde Ecke Eingang Stasi-Gedenkstätte.jpg
-  Urheber: Onkel Tomm
+- Gedenkstätte Museum in der „Runden Ecke“ Leipzig 03.jpg
+  Urheber: FrDr
   Lizenz:  CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
-  Quelle:  https://commons.wikimedia.org/wiki/File:Dittrichring_Leipzig_2024_Runde_Ecke_Eingang_Stasi-Gedenkst%C3%A4tte.jpg
+  Quelle:  https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Museum_in_der_%E2%80%9ERunden_Ecke%E2%80%9C_Leipzig_03.jpg
 
-- Runde Ecke Leipzig.jpg
-  Urheber: Appaloosa
-  Lizenz:  CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
-  Quelle:  https://commons.wikimedia.org/wiki/File%3ARunde_Ecke_Leipzig.jpg
+- Dittrichring - Leipzig (DED5) - 2025-11-25 - 1.jpg
+  Urheber: Chabe01
+  Lizenz:  CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Quelle:  https://commons.wikimedia.org/wiki/File:Dittrichring_-_Leipzig_(DED5)_-_2025-11-25_-_1.jpg
 
 - DE Leipzig Runde Ecke Eingangsbereich 2023.jpg
   Urheber: Thomas Wozniak
   Lizenz:  CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
   Quelle:  https://commons.wikimedia.org/wiki/File:DE_Leipzig_Runde_Ecke_Eingangsbereich_2023.jpg
 
-- Geruchsproben - Gedenkstätte Leipzig.jpg
-  Urheber: Photographer: Mosbatho
-  Lizenz:  CC BY 4.0 (https://creativecommons.org/licenses/by/4.0)
-  Quelle:  https://commons.wikimedia.org/wiki/File:Geruchsproben_-_Gedenkst%C3%A4tte_Leipzig.jpg
+- Gedenkstätte Museum in der „Runden Ecke“ Leipzig 12.jpg
+  Urheber: FrDr
+  Lizenz:  CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Quelle:  https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Museum_in_der_%E2%80%9ERunden_Ecke%E2%80%9C_Leipzig_12.jpg
 
-- Office in the Runde Ecke museum.JPG
-  Urheber: Nick-D
+- Leipzig - Dittrichring - Runde Ecke in 07 ies.jpg
+  Urheber: Frank Vincentz
   Lizenz:  CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
-  Quelle:  https://commons.wikimedia.org/wiki/File:Office_in_the_Runde_Ecke_museum.JPG
+  Quelle:  https://commons.wikimedia.org/wiki/File:Leipzig_-_Dittrichring_-_Runde_Ecke_in_07_ies.jpg
 
-- Central corridor of the Runde Ecke museum.jpg
-  Urheber: Nick-D
-  Lizenz:  CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
-  Quelle:  https://commons.wikimedia.org/wiki/File:Central_corridor_of_the_Runde_Ecke_museum.jpg
+- Gedenkstätte Museum in der „Runden Ecke“ Leipzig 24.jpg
+  Urheber: FrDr
+  Lizenz:  CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Quelle:  https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Museum_in_der_%E2%80%9ERunden_Ecke%E2%80%9C_Leipzig_24.jpg
 
-- Runde Ecke Schredder.JPG
-  Urheber: Hajotthu
-  Lizenz:  CC BY 3.0 (https://creativecommons.org/licenses/by/3.0)
-  Quelle:  https://commons.wikimedia.org/wiki/File:Runde_Ecke_Schredder.JPG
+- Gedenkstätte Museum in der „Runden Ecke“ Leipzig 20.jpg
+  Urheber: FrDr
+  Lizenz:  CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Quelle:  https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Museum_in_der_%E2%80%9ERunden_Ecke%E2%80%9C_Leipzig_20.jpg
 
-- Stasi CCTV cameras in front of the Runde Ecke museum.JPG
-  Urheber: Nick-D
-  Lizenz:  CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)
-  Quelle:  https://commons.wikimedia.org/wiki/File%3AStasi_CCTV_cameras_in_front_of_the_Runde_Ecke_museum.JPG
+- Gedenkstätte Museum in der „Runden Ecke“ Leipzig 34.jpg
+  Urheber: FrDr
+  Lizenz:  CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Quelle:  https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Museum_in_der_%E2%80%9ERunden_Ecke%E2%80%9C_Leipzig_34.jpg
+
+- Gedenkstätte Museum in der „Runden Ecke“ Leipzig 17.jpg
+  Urheber: FrDr
+  Lizenz:  CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)
+  Quelle:  https://commons.wikimedia.org/wiki/File:Gedenkst%C3%A4tte_Museum_in_der_%E2%80%9ERunden_Ecke%E2%80%9C_Leipzig_17.jpg
