@@ -9,7 +9,7 @@ steht nicht auf der Seite. Erzeugt mit nx7-site-static 0.1.0, Theme `hell`.
 - URL: https://www.runde-ecke-leipzig.de/index.php?id=230
 - abgerufen: 2026-07-30
 
-## Eintritt: Erwachsene 5,00 €, ermäßigt 4,00 € inklusive Audioguide; öffentliche Führungen 7,50 € / 6,00 €
+## Eintritt: Erwachsene 5,00 €, ermäßigt 4,00 € inklusive Audioguide; öffentliche Führungen derzeit nicht möglich, Gruppenführungen nach Voranmeldung
 
 - Quelle: Bürgerkomitee Leipzig e. V., Seiten „Öffnungszeiten“ und „Startseite“
 - URL: https://www.runde-ecke-leipzig.de/index.php?id=230
@@ -66,3 +66,4 @@ Folgende Angaben ließen sich nicht belegen und stehen deshalb **nicht** auf der
 - Umsatzsteuer-Identifikationsnummer — im Impressum nicht angegeben, daher ausgelassen.
 - Anzahl der Audioguide-Sprachen — die Angaben schwanken (acht bzw. zehn Sprachen), daher ohne Zahl genannt.
 - Barrierefreiheit des Gebäudes selbst (Zugänge, Aufzug) — dazu fand sich keine belastbare Angabe; die Erklärung zur Barrierefreiheit bezieht sich ausschließlich auf diese Website.
+- Preis öffentlicher Führungen — laut offizieller Seite (Abruf 30.07.2026) derzeit nicht möglich, daher keine Preisangabe; Gruppenführungen nur nach Voranmeldung.
