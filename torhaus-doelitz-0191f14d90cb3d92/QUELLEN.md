@@ -198,3 +198,7 @@ es wird kein externes CDN aufgerufen.
    deshalb typografisch und über Zahlen erzählt.
 5. **Öffnungszeiten 2027 über den 2. Januar hinaus** und Termine nach dem
    19. Dezember 2026 sind vom Haus noch nicht veröffentlicht.
+
+## Nachtrag 03.08.2026 (Alyx, Nachbesserung aus der Abnahme)
+
+- Vertretungsberechtigte und Vereinsregister: Impressum der Verbandswebsite, https://leipzig1813.com/verband/impressum (abgerufen 03.08.2026) — Vorstandsvorsitzender Michél Kothe, stellv. Vorsitzender Jürgen Hoffmann, Amtsgericht Leipzig VR 10957.
