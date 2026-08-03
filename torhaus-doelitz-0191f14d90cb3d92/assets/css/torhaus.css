@@ -857,13 +857,15 @@ figcaption {
 
 /* ---------- Bewegung ----------------------------------------------------- */
 
-[data-auf] {
+/* Verborgen wird nur, was das Skript auch wieder aufdecken kann: ohne
+   JavaScript fehlt die Klasse .js und alles steht sofort sichtbar da. */
+.js [data-auf] {
   opacity: 0;
   transform: translateY(26px);
   transition: opacity 0.85s var(--kurve), transform 0.85s var(--kurve);
   transition-delay: var(--verzug, 0ms);
 }
-[data-auf='ja'] { opacity: 1; transform: none; }
+.js [data-auf='ja'] { opacity: 1; transform: none; }
 
 /* Der Bogen oeffnet sich beim Scrollen. */
 .oeffnung { --auf: 0; }
@@ -914,7 +916,7 @@ figcaption {
     transition-duration: 0.001ms !important;
     scroll-behavior: auto !important;
   }
-  [data-auf] { opacity: 1; transform: none; }
+  .js [data-auf] { opacity: 1; transform: none; }
   .oeffnung .bogen { clip-path: none; }
 }
 

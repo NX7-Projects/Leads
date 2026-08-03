@@ -55,6 +55,7 @@ KOPF = u"""<!doctype html>
 <link rel="preload" href="{p}assets/fonts/bodoni-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="preload" href="{p}assets/fonts/archivo-latin.woff2" as="font" type="font/woff2" crossorigin>
 <link rel="stylesheet" href="{p}assets/css/torhaus.css">
+<script>document.documentElement.className+=' js';</script>
 </head>
 <body>
 
