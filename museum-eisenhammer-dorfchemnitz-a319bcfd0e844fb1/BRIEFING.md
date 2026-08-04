@@ -1,6 +1,6 @@
 # Briefing: neue Website Museum Eisenhammer Dorfchemnitz
 
-Stand: 2026-08-03 · deterministisch erzeugt aus dem Signal (Stufe 1 der Freestyle-Baulane).
+Stand: 2026-08-04 · deterministisch erzeugt aus dem Signal (Stufe 1 der Freestyle-Baulane).
 Dieses Dokument ist ein KONZEPT-Briefing, keine Bauvorlage. Es sagt, WORUM es geht
 und WORAN gemessen wird - nicht, wie die Seite aufgebaut zu sein hat.
 
@@ -62,6 +62,7 @@ Was diese Seite fuer das Haus leisten soll:
 **Gestaltung**
 
 - EIGENSTAENDIGKEIT (oberste Regel): Die Seite muss aussehen, als waere sie fuer genau dieses Haus entworfen. Der Test: Tauscht man Texte und Logo aus, darf das Design NICHT fuer ein beliebiges anderes Haus weiterfunktionieren. Farbwelt, Schriftwahl und Layout-Motive begruenden sich aus dem Gegenstand - aus Material, Ort, Geschichte und Arbeit des Hauses. Ein Dachdeckerbetrieb braucht eine andere, geerdetere Seite als eine Anwaltskanzlei.
+- KEIN NAHELIEGENDER GRIFF: Bei einem Sanierungsziel wie "altes Gebaeude, Fachwerk oder Backstein" ist die naheliegende Antwort ein warmer Kalk-Weiss-Ton plus Ziegelrot - GENAU DESHALB ist sie meistens die falsche. Bevor du eine Materialfarbe setzt: was ist an DIESEM Gebaeude untypisch fuer seine Bauzeit/Region (eine bestimmte Steinsorte, ein ungewoehnlicher Anstrich, eine Epoche, ein Handwerk, das nicht "historisch" ist)? Zwei Haeuser mit aehnlicher Bausubstanz muessen zu ERKENNBAR verschiedenen Paletten kommen - sonst ist "aus dem Material abgeleitet" nur ein neuer Automatismus.
 - KEINE KI-REFLEXE: Die immergleichen Automatik-Muster sind nur erlaubt, wenn ein Grund aus dem Haus sie traegt - sonst weg: dunkles Theme als Ausgangspunkt, Violett-/Neon-Verlaeufe und Glow-Effekte, drei identische Kacheln nebeneinander, derselbe Eckenradius an jedem Element, der zentrierte Einheits-Hero (Riesenueberschrift, Unterzeile, zwei Knoepfe), Emojis als Icons. Wer eines dieser Mittel einsetzt, muss sagen koennen, warum es aus DIESEM Haus kommt.
 - EIN SYSTEM: Eine Farbwelt aus dem Material und der Welt des Hauses, zwei Schriften, eine feste Abstandsskala - jede Unterseite traegt erkennbar dieselbe Handschrift. Einzigartig heisst EIN eigenes, durchgezogenes System, nicht viele Einfaelle nebeneinander.
 - TYPOGRAFIE ALS ENTSCHEIDUNG: Schriftwahl ist Gestaltung, kein Default. Eigene Schriften lokal einbinden, Mut zu sehr grossen Ueberschriften und bewussten Gewichten. Die Schrift muss zum Charakter des Hauses passen und begruendbar sein - eine austauschbare Standardschrift fuer alles ist ein Rueckfall in die Vorlage.

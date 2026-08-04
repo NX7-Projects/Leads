@@ -84,9 +84,25 @@ Beide Schriften sind lokal eingebunden; es werden keine externen Dienste aufgeru
 
 ## Nicht belegbar — bewusst weggelassen
 
-- **E-Mail-Adresse des Museums.** Die alte Website nennt keine; Kontakt läuft dort über
-  ein Formular ohne sichtbare Adresse. Auf der neuen Website steht deshalb ausschließlich
-  die Telefonnummer. Für das Impressum fehlt damit eine belegte E-Mail-Adresse.
+- **E-Mail-Adresse des Museums.** Trotz erneuter, vollständiger Suche am 04.08.2026 nicht
+  auffindbar — die Angabe wird deshalb nicht geraten, sondern fehlt bewusst. Geprüft wurden:
+  alle acht Seiten der alten Website im Rohtext (`eisenhammer-dorfchemnitz.de` — Start,
+  Museum, Förderverein, Aktuell, Kontakt, Geschichte, Technik, Anfahrt) — kein einziges
+  „@“ im ausgelieferten HTML, auch nicht als `mailto:`; das dortige Impressum
+  (`/impressum`) nennt nur Telefon; die Kontaktseite bietet ausschließlich ein Formular
+  ohne sichtbare Adresse; Vereinsverzeichnis der Gemeinde Dorfchemnitz (E-Mail-Feld leer),
+  Objekteintrag der Stadt Sayda, erzgebirge-tourismus.de, outdooractive.com und der
+  Registereintrag bei registercheck.de nennen ebenfalls keine.
+  Folge: Das Impressum weist Telefon und Postanschrift als Kontaktwege aus. Die nach
+  § 5 DDG zusätzlich verlangte E-Mail-Adresse muss das Haus vor einem Live-Gang selbst
+  beisteuern — sie ist der einzige offene Pflichtpunkt.
+- **Registernummer — abweichende Angaben.** Das Impressum der alten Website nennt
+  „Amtsgericht Chemnitz, VR 2975“; der Aggregator registercheck.de führt denselben Verein
+  unter „VR 2972“ und nennt als Vorstand Ullrich Münch und Ronny Schmidt (beide seit
+  19.04.2024). Übernommen ist die Selbstauskunft des Hauses (VR 2975); die Abweichung ist
+  vor einem Live-Gang am Register zu klären.
+  Quellen: http://www.eisenhammer-dorfchemnitz.de/impressum ·
+  https://www.registercheck.de/companies/foerderverein-eisenhammer-dorfchemnitz-e-v
 - **Barrierefreiheit vor Ort.** Weder Museumswebsite noch Gemeindeverzeichnis machen
   Angaben zu Stufen, Wegen, WC oder Ausleihe. Statt einer Vermutung steht auf der
   Besuchsseite die Bitte um vorherigen Anruf.

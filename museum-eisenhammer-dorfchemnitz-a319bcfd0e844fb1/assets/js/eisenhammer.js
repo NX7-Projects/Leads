@@ -127,6 +127,6 @@
   var saison = document.querySelector("[data-saison]");
   if (saison) {
     var m = new Date().getMonth() + 1;
-    saison.textContent = m >= 5 && m <= 10 ? "Saison läuft" : "Winterpause";
+    saison.textContent = m >= 5 && m <= 10 ? " · Saison läuft" : " · Winterpause";
   }
 })();
