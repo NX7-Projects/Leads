@@ -63,8 +63,11 @@ Wahlergebnis, ohne Aussage über unbesetzte Sitze.
 | Gemeindebibliotheken Paschwitz (montags 16–17 Uhr, Eleonore Knöfel) und Wöllnau (mittwochs 16:30–17:30 Uhr, Christine Kortüm) | <https://www.doberschuetz.eu/dob/kultur-sport/gemeindebibliotheken.php> |
 | Belegungsplan Turnhalle (nur verlinkt, Inhalt nicht übernommen) | <https://www.doberschuetz.eu/dob/kultur-sport/BelegungsplanTurnhalle11-25.pdf> |
 | Alle Termine im Kalender August bis Oktober 2026, einschließlich Kita-Namen „Sonnenkäfer“ (Mörtitz) und „Storchennest“ (Sprotta) | <https://www.doberschuetz.eu/dob/veranstaltungen/> |
-| Grundschule Doberschütz | <https://cms.sachsen.schule/gsdobers/willkommen> |
+| Grundschule Doberschütz, nach eigener Angabe „die erste Naturparkschule des Naturpark Dübener Heide e. V.“ | <https://cms.sachsen.schule/gsdobers/willkommen/> |
 | Amtsblätter des Landkreises | <https://www.landkreis-nordsachsen.de/amtsblaetter.html> |
+| Naturpark Dübener Heide (die Gemeinde liegt an seiner Südseite) | <https://de.wikipedia.org/wiki/Dobersch%C3%BCtz> Abschnitt Naturschutz, und <https://www.naturpark-duebener-heide.de/> |
+| Sächsisches Heideland – dieser Verweis („Leipzig Region“) steht auch auf der bisherigen Startseite und leitet heute auf leipzig.travel weiter | Startseite <https://www.doberschuetz.eu/> → <https://www.leipzig.travel/erleben/saechsisches-heideland> |
+| Amtliche Kartenansicht der Gemeinde im Geoportal Sachsen – ebenfalls von der bisherigen Startseite übernommen | <https://geoportal.sachsen.de/?map=eeddf07a-7939-49e3-8b11-1742f9679e12> |
 
 ## 5. Bewusst weggelassen (keine belegte Grundlage)
 
