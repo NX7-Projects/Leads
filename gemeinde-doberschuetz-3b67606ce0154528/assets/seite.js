@@ -1,4 +1,4 @@
-/* Gemeinde Doberschuetz - Entwurf. Kein Tracker, keine externen Aufrufe.
+/* Gemeinde Doberschuetz - Vorschau von nx7. Kein Tracker, keine externen Aufrufe.
    Vier kleine Dinge: Navigation auf dem Telefon, Einblenden beim Scrollen,
    der Status "Rathaus jetzt geoeffnet?" und der schwebende Kontaktknopf. */
 (function () {
